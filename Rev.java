@@ -13,5 +13,6 @@ class Rev{
             System.out.println("Reversed word :"+ch);
             
         }
+        in.close();
     }
 }

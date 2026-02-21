@@ -23,5 +23,6 @@ class Palindrome{
         else
         System.out.println("Not Palindorme");
         
+        in.close();
     }
 }

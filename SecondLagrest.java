@@ -29,7 +29,7 @@ class SecondLargest{
                 }
         }
         System.out.println("2nd Largest: "+ secondLargest);
-
+        in.close();
     }
     
 }

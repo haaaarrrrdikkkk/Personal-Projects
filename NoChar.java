@@ -20,5 +20,6 @@ class NoChar{
             
         }
         System.out.println("Number of times the given character is used: "+counter );
+        in.close();
     }
 }

@@ -13,5 +13,6 @@ class FactorialNo{
         }
         System.out.println("Factorial: "+ prod);
 
+        in.close();
     }
 }

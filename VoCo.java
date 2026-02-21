@@ -22,6 +22,6 @@ class VoCo{
             }
             System.out.println("Number of vowels in the word is: " + vowels);
             System.out.println("Number of consonants in the word is: " + consonants);
-
+                in.close();
         }
     }

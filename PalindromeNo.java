@@ -23,5 +23,7 @@ class PalindromeNo{
             System.out.println("Not a Palindrome Number!");
             
         }
+        in.close();
+
     }
 }

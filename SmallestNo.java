@@ -25,7 +25,7 @@ class SmallestNo{
 
 
         }
-        
+        in.close();
         } 
     }
     

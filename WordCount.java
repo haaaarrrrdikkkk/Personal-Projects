@@ -11,5 +11,6 @@ class WordCount{
             prod = n*i;
             System.out.println(n +" * "+i+" = "+prod );      
         }
+        in.close();
     }
 }

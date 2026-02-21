@@ -30,6 +30,6 @@ class CountEvOdd{
     }
     System.out.println("EVEN:"+ even);
     System.out.println("ODD:"+odd);
-
+    in.close();
 }
 }

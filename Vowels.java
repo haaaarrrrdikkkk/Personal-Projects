@@ -15,5 +15,6 @@ class Vowels{
             }
         }
         System.out.println("Number of vowels in the word is: " + count);
+        in.close();
     }
 }

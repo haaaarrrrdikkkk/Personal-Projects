@@ -14,6 +14,6 @@ class SOD{
 
         }
         System.out.println("Sum of Digits: "+ sum);
-
+        in.close();
     }
 }

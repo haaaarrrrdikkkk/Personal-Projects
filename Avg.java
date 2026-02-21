@@ -9,6 +9,7 @@ class Avg{
         int[] arr= new int[n];
         int sum=0;
 
+
         System.out.println("Enter n numbers:");
 
         for(int i=0; i<n; i++){
@@ -18,6 +19,8 @@ class Avg{
         }
         double average = (double)sum/n;
         System.out.println("Average of the numbers : "+average);
+        in.close();
         
     }
+    
 }
