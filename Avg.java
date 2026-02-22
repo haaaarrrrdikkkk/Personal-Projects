@@ -20,7 +20,7 @@ class Avg{
         double average = (double)sum/n;
         System.out.println("Average of the numbers : "+average);
         in.close();
-        
+
     }
     
 }
